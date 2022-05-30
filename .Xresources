@@ -1,0 +1,51 @@
+*.font: xft:Fira Code:size=11:style=Medium
+*.Scrollbar.foreground: #afaf5f
+
+! Colors
+Xterm.background: #FFFFEA
+!*.background: #FFFFFF
+Xterm.foreground: #111111
+
+! Normal Colors
+*.color0: #444444
+*.color1: #d75f5f 
+*.color2: #008700
+*.color3: #875f00
+*.color4: #0087d7
+*.color5: #8787d7
+*.color6: #5fafaf
+*.color7: #afaf5f
+
+! Bright Colors
+*.color8: #666666
+*.color9: #ffafaf
+*.color10: #87d787
+*.color11: #afaf87
+*.color12: #87d7ff
+*.color13: #d7d7ff
+*.color14: #87d7d7
+*.color15: #d7d787
+
+!Xcursor.size: 16
+Xcursor.theme: AmigaOS Retro-Modern
+
+! 2bwm Configs
+twobwm.focus_color: #55aaaa
+twobwm.unfocus_color: #9eeeee
+twobwm.fixed_color: #8888cc
+twobwm.unkill_color: #dc77777
+twobwm.outer_border_color: #444444
+twobwm.fixed_unkill_color: #0088cc
+!twobwm.inverted_colors: false
+!twobwm.enable_compton: true
+
+! xmenu Configs
+xmenu.font: Fira Sans:size=11:style=bold
+xmenu.background: #eaffea
+xmenu.foreground: #111111
+xmenu.selbackground: #448844
+xmenu.selforground: #eaffea
+xmenu.border: #88cc88
+xmenu.separator: #448844
+xmenu.borderWidth: 4
+xmenu.alignment: center
