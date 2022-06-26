@@ -5,7 +5,7 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "Fira Code:size=11:style=Medium:antialias=true:autohint=true";
+static char *font = "Go Mono:size=10:style=Regular";
 static int borderpx = 4;
 
 /*

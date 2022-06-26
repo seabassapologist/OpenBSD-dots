@@ -61,5 +61,5 @@ function rebuild_port {
 	doas make install
 }
 export PLAN9=/usr/local/plan9
-export PATH="$HOME/.local/bin:$HOME/go/bin:$PATH"
+export PATH="$HOME/.local/bin:$HOME/go/bin:$HOME/.cabal/bin:$HOME/.cargo/bin:$PATH"
 export LANG="en_US.UTF-8"

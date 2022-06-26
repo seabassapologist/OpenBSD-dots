@@ -1,4 +1,4 @@
-*.font: xft:Fira Code:size=11:style=Medium
+*.font: xft:Go Mono:size=10:style=Regular
 *.Scrollbar.foreground: #afaf5f
 
 ! Colors
@@ -36,11 +36,9 @@ twobwm.fixed_color: #8888cc
 twobwm.unkill_color: #dc77777
 twobwm.outer_border_color: #444444
 twobwm.fixed_unkill_color: #0088cc
-!twobwm.inverted_colors: false
-!twobwm.enable_compton: true
 
 ! xmenu Configs
-xmenu.font: Fira Sans:size=11:style=bold
+xmenu.font: Go:size=11:style=bold
 xmenu.background: #eaffea
 xmenu.foreground: #111111
 xmenu.selbackground: #448844

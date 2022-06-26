@@ -9,8 +9,8 @@ require('packer').startup(function()
   use 'ms-jpq/coq.artifacts'
   use 'ms-jpq/coq.thirdparty'
 
-  vim.g.acme_style = "colorful"
-  vim.cmd[[colorscheme acme]]
+  --vim.g.acme_style = "colorful"
+  --vim.cmd[[colorscheme acme]]
 end)
 
 use {
